@@ -1,0 +1,131 @@
+.title {
+    -fx-background-color: #0077b6;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-alignment: center;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+    -fx-padding: 5;
+}
+
+.title2 {
+    -fx-background-color: #0077b6;
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-alignment: center;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+    -fx-padding: 5;
+}
+
+.vbox{
+    -fx-padding: 10, 30, 20, 30;
+    -fx-spacing: 10;
+}
+
+.hbox{
+    -fx-alignment: center;
+    -fx-spacing: 10;
+}
+
+.buttons{
+    -fx-text-fill: white;
+    -fx-border-width: 1px;
+    -fx-background-color: #00b4d8;
+    -fx-border-radius: 2px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.25), 10, 0.5, 0, 3);
+}
+
+.buttons:hover {
+    -fx-background-color: white;
+    -fx-text-fill: #4F5D75;
+    -fx-cursor: hand;
+    -fx-border-radius: 2px;
+}
+
+.question{
+    -fx-text-fill: white;
+    -fx-font-size: 17px;
+    -fx-font-weight: bold;
+    -fx-alignment: center-left;
+
+}
+
+.hbox2{
+    -fx-border-width: 4px;
+    -fx-border-color: #0d1b2a;
+    -fx-border-radius: 2px;
+    -fx-padding: 10 0 10 10;
+    -fx-alignment: center;
+    -fx-spacing: 10;
+    -fx-background-color: #484A49;
+}
+
+.input{
+    -fx-font-size: 15px;
+    -fx-pref-width: 100px;
+}
+
+.submitAnswer{
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+    -fx-background-color: #018E42;
+    -fx-border-width: 1px;
+    -fx-border-color: green;
+    -fx-font-weight: bold;
+}
+
+.submitAnswer:pressed{
+    -fx-background-color: #5FDD9D;
+    -fx-text-fill: #018E42;
+}
+
+.submitAnswer:hover{
+    -fx-cursor: hand;
+}
+
+.vbox2{
+    -fx-padding: 10 0 10 5;
+    -fx-alignment: center-right;
+}
+
+.correct{
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+.hbox3{
+    -fx-alignment: center;
+    -fx-border-width: 4px;
+    -fx-border-color: #0d1b2a;
+    -fx-background-color: #FFF;
+    -fx-spacing: 10;
+}
+
+.reset{
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+    -fx-background-color: #018E42;
+    -fx-border-width: 1px;
+    -fx-border-color: green;
+    -fx-font-weight: bold;
+}
+
+.reset:pressed{
+    -fx-background-color: #5FDD9D;
+    -fx-text-fill: #018E42;
+}
+
+.reset:hover{
+    -fx-cursor: hand;
+}
+
+.score{
+    -fx-font-size: 23px;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow(gaussian, #00ffff, 10, 0.2, 0, 0);
+}
+
+.vbox3{
+    -fx-alignment: center;
+}

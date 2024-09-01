@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59421b81-20e7-4d0d-9f4c-0bb6689062d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/Assignment05_000317961/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/Assignment05_000317961/Quiz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/Assignment05_000317961/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/Assignment05_000317961/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/resource-files/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/resource-files/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/resource-files/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/resource-files/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/resource-files/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/resource-files/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/script-files/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/script-files/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/script-files/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/script-files/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/script-files/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment05_000317961/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment05_000317961/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment05_000317961/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2iYsmKN2SJiBacRaRXTBo9r2G1r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Assignment05_000317961.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tomco/OneDrive/Desktop/Mohawk/Semester 2/Programming in Java - COMP-10062/Assignment 5/Assignment5&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/tomco/OneDrive/Desktop/Mohawk/Semester 2/Programming in Java - COMP-10062/Assignment 5/Assignment5/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 2\Programming in Java - COMP-10062\Assignment 5\Assignment5\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tomco\OneDrive\Desktop\Mohawk\Semester 2\Programming in Java - COMP-10062\Assignment 5\Assignment5\src\Assignment05_000317961" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Assignment05_000317961.Main">
+    <configuration name="Assignment05_000317961.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment05_000317961.Main" />
+      <module name="Assignment5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment05_000317961.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Assignment5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Assignment05_000317961.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59421b81-20e7-4d0d-9f4c-0bb6689062d1" name="Changes" comment="" />
+      <created>1719679005433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719679005433</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
